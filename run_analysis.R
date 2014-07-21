@@ -60,7 +60,7 @@ total_test <- cbind(total_test, x_test)
 ## combin the test data and training data to make one tidy data set
 total <- rbind(total_train, total_test)
 
-colnames(total)
+##colnames(total)
 ## Returns the column number with the word "mean" in it
 grep("[Mm][Ee][Aa][Nn]", colnames(total))
 ## means columns

@@ -15,5 +15,5 @@ The run_analysis.R file creates a tidy dataset using the following steps:
 <li>Both the data.frames for training and test data are combined into one big data.frame.</li>
 <li>A data.frame is constructed with only the columns for "subject", "activity", any means, and any standard deviations.</li>
 <li>The Activity data is read in and joined with the data.frame from above so that we know which activities correspond to each row of data. I removed the activity id column.</li>
-<li>Finally, ddply in the plyr library, I calculate the means for each column in the dataset.<li>
+<li>Finally, ddply in the plyr library, I calculate the means for each column in the dataset.</li>
 </ol>
