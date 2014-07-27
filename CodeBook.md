@@ -137,8 +137,8 @@ Brenda Chodkowski<br>
 <b>tBodyAcc-std()-Z</b><br>
     The mean of the standard deviation of subject's acceleration signal for the body on the Z-axis.<br>
 <br>
-<b>Blah</b><br>
-    After Blah<br>
+<b>tGravityAcc-std()-X</b><br>
+    The mean of the standard deviation of the subjects' acceleration signal of Gravity on the X-axis.<br>
 <br>
 <b>Blah 2</b><br>
     After blah 2<br>
