@@ -140,6 +140,33 @@ Brenda Chodkowski<br>
 <b>tGravityAcc-std()-X</b><br>
     The mean of the standard deviation of the subjects' acceleration signal of Gravity on the X-axis.<br>
 <br>
-<b>Blah 2</b><br>
-    After blah 2<br>
+<b>tGravityAcc-std()-Y</b>  <br>
+    The mean of the standard deviation of the subjects' acceleration signal of Gravity on the Y-axis.<br>
+<br>
+<b>tGravityAcc-std()-Z</b><br>
+    The mean of the standard deviation of the subjects' acceleration signal of Gravity on the Z-axis.<br>
+    <br>
+<b>tBodyAccJerk-std()-X</b><br>
+    The mean of the standard deviation of the subjects' acceleration of the body's jerk signals on the X  -axis.<br>
+    <br>
+<b>tBodyAccJerk-std()-Y</b><br>
+    The mean of the standard deviation of the subjects' acceleration of the body's jerk signals on the Y  -axis.<br>
+    <br>
+<b>tBodyAccJerk-std()-Z</b>    <br>
+    The mean of the standard deviation of the subjects' acceleration of the body's jerk signals on the Z  -axis.<br>
+<br>
+<b>tBodyGyro-std()-X</b><br>
+    The mean of the standard deviation of the subjects' body's gyroscope reading on the X-axis.<br>
+    <br>
+<b>tBodyGyro-std()-Y</b><br>
+    The mean of the standard deviation of the subjects' body's gyroscope reading on the Y-axis.<br>
+<br>
+<b>tBodyGyro-std()-Z</b><br>
+    The mean of the standard deviation of the subjects' body's gyroscope reading on the Z-axis.<br>
+<br>
+<b>tBodyGyroJerk-std()-X</b><br>
+    The mean of the standard deviation of the subjects' body's gyroscope jerk motion on the X-axis.<br>
+    <br>
+<b>tBodyGyroJerk-std()-Y</b>	<br>
+    The mean of the standard deviations of the subjects' body's gyroscope jerk motion on the Y-axis.<br>
 <br>
