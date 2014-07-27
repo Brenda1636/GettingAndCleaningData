@@ -170,3 +170,61 @@ Brenda Chodkowski<br>
 <b>tBodyGyroJerk-std()-Y</b>	<br>
     The mean of the standard deviations of the subjects' body's gyroscope jerk motion on the Y-axis.<br>
 <br>
+<b>tBodyGyroJerk-std()-Z</b><br>
+    The mean of the standard deviations of the subjects' body's gyroscope jerk motion on the Z-axis.<br>
+    <br>
+<b>tBodyAccMag-std()</b>  <br>
+    The mean of the standard deviations of the subjects' body acceleration magnitude using Euclidean norm.<br>
+    <br>
+<b>tGravityAccMag-std()</b><br>
+    The mean of the standard deviations of the subjects' gravity acceleration magnitude using Euclidean norm.<br>
+<br>
+<b>tBodyAccJerkMag-std()</b> <br>
+    The mean of the standard deviations of the subjects' body acceleration jerk magnitude using Euclidean norm.<br>
+<br>
+<b>tBodyGyroMag-std()</b><br>
+    The mean of the standard deviations of the subjects' body gyroscope magnitude using Euclidean norm.<br>
+    <br>
+<b>tBodyGyroJerkMag-std()</b><br>
+    The mean of the standard deviations of the subjects' body gyroscope jerk magnitude using Euclidean norm.<br>
+    <br>
+<b>fBodyAcc-std()-X</b><br>
+    The mean of the standard deviation of the frequency domain signal from the Fast Fourier Transform (FFT) when applied to tBodyAcc-std()-X.<br>
+    <br>
+<b>fBodyAcc-std()-Y</b><br>
+    The mean of the standard deviation of the frequency domain signal from the Fast Fourier Transform (FFT) when applied to tBodyAcc-std()-Y.<br>
+    <br>
+    
+<b>fBodyAcc-std()-Z</b>    <br>
+    The mean of the standard deviation of the frequency domain signal from the Fast Fourier Transform (FFT) when applied to tBodyAcc-std()-Z.<br>
+    <br>
+    
+<b>fBodyAccJerk-std()-X</b><br>
+    The mean of the standard deviation of the frequency domain signal from the Fast Fourier Transform (FFT) when applied tBodyAccJerk-std()-X.<br>
+<br>
+<b>fBodyAccJerk-std()-Y</b><br>
+    The mean of the standard deviation of the frequency domain signal from the Fast Fourier Transform (FFT) when applied tBodyAccJerk-std()-Y.<br>
+<br>
+<b>fBodyAccJerk-std()-Z</b>    <br>
+    The mean of the standard deviation of the frequency domain signal from the Fast Fourier Transform (FFT) when applied tBodyAccJerk-std()-Z.<br>
+<br>
+<b>fBodyGyro-std()-X</b><br>
+    The mean of the standard deviation of the frequency domain signal from the Fast Fourier Transform (FFT) when applied tBodyGyro-std()-X.<br>
+<br>
+<b>fBodyGyro-std()-Y</b><br>
+    The mean of the standard deviation of the frequency domain signal from the Fast Fourier Transform (FFT) when applied tBodyGyro-std()-Y.<br>
+    <br>
+<b>fBodyGyro-std()-Z</b><br>
+    The mean of the standard deviation of the frequency domain signal from the Fast Fourier Transform (FFT) when applied tBodyGyro-std()-Z.<br>
+<br>
+<b>fBodyAccMag-std()</b><br>
+    The mean of the standard deviations of the frequency domain signal from the Fast Fourier Transform (FFT) when applied tBodyAccMag-std().  <br>
+    <br>
+<b>fBodyBodyAccJerkMag-std()</b><br>
+    The mean of the standard deviations of the frequency domain signal from the Fast Fourier Transform (FFT) when applied tBodyAccJerkMag-std().<br>
+    <br>
+<b>fBodyBodyGyroMag-std()</b><br>
+    The mean of the standard deviations of the frequency domain signal from the Fast Fourier Transform (FFT) when applied tBodyGyroMag-std().<br>
+    <br>
+<b>fBodyBodyGyroJerkMag-std()</b><br>
+    The mean of the stard deviations of the frequency domain signal from the Fast Fourier Transform (FFT) when applied tBodyGyroJerkMag-std().<br>
